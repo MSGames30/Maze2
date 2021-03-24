@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Source/NetworkGame/.idea/.idea.NetworkGame.dir/.idea/vcs.xml
+Source/NetworkGame/.idea/.idea.NetworkGame.dir/.idea/indexLayout.xml
+Source/NetworkGame/.idea/.idea.NetworkGame.dir/.idea/encodings.xml
