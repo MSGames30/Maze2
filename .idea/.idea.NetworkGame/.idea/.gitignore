@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.NetworkGame.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\S.Mattia\Documents\Projets Unreal\NetworkGame\.idea\.idea.NetworkGame\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
